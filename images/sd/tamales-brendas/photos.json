@@ -33,5 +33,77 @@
     "file": "menu2.jpg",
     "source_page": "https://www.zmenu.com/tamales-brendas-san-diego-online-menu/",
     "shows": "Photographed taped-up combos sheet listing hot dog and fries, burger and fries, tamales, nachos, and catering info with prices; phone number (619) 405-4063 and @TAMALESBRENDAS handle match this business"
+  },
+  {
+    "file": "stand.jpg",
+    "source_page": "https://restaurantguru.com/Tamales-Brendas-San-Diego",
+    "shows": "The stand at night under its red and white awning, work light on, wooden stools out front, a cook working the counter",
+    "derived_from": "photo1.jpg",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1000,
+      "height": 600
+    }
+  },
+  {
+    "file": "tamal.jpg",
+    "source_page": "https://restaurantguru.com/Tamales-Brendas-San-Diego",
+    "shows": "A handmade tamal opened on its corn husk, drizzled with crema and salsa, on a to-go tray with lettuce",
+    "derived_from": "photo2.jpg",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 576,
+      "height": 720
+    }
+  },
+  {
+    "file": "elote.jpg",
+    "source_page": "https://restaurantguru.com/Tamales-Brendas-San-Diego",
+    "shows": "An elote on a tray, covered in crema, cotija, and red chile, with a Tapatio packet",
+    "derived_from": "photo3.jpg",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 800,
+      "height": 690
+    }
+  },
+  {
+    "file": "hotdog.jpg",
+    "source_page": "https://restaurantguru.com/Tamales-Brendas-San-Diego",
+    "shows": "A bacon wrapped hot dog with pico de gallo next to crinkle cut fries",
+    "derived_from": "photo5.jpg",
+    "crop": {
+      "left": 185,
+      "top": 0,
+      "width": 295,
+      "height": 480
+    }
+  },
+  {
+    "file": "van.jpg",
+    "source_page": "https://www.restaurantji.com/ca/san-diego/tamales-brendas-/",
+    "shows": "The Tamales Brenda's van with its yellow banner and a red TAMALES flag, parked at night",
+    "derived_from": "photo4.jpg",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 540,
+      "height": 500
+    }
+  },
+  {
+    "file": "sodas.jpg",
+    "source_page": "https://www.restaurantji.com/ca/san-diego/tamales-brendas-/",
+    "shows": "Mexican glass sodas lined up on the counter: Coca-Cola, Jarritos, Sidral, Squirt",
+    "derived_from": "photo4.jpg",
+    "crop": {
+      "left": 548,
+      "top": 0,
+      "width": 540,
+      "height": 500
+    }
   }
 ]
